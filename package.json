@@ -1,0 +1,17 @@
+{
+  "name": "chlenix",
+  "version": "1.0.0",
+  "main": "localhost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon localhost.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "epress": "^0.0.1-security",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  },
+  "description": ""
+}
